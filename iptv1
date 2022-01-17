@@ -42,10 +42,47 @@ http://51.154.28.81:2052/play/a08w?checkedby:iptvcat.com
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21895?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UNDEFINED",MTV
-http://5.105.70.73:1234/udp/239.0.0.1:1234
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UNDEFINED",MTV 1
-http://5.105.70.73:1234/udp/239.0.0.160:1234
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="UNDEFINED",MTV BEATS
-https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
-
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21897?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 2
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21898?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 2 UHD
+http://fasttvuk.com:2086/Zxcvbn12/Zxcvbn12/31139?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 3
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21900?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 1
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67062?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 2
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67063?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 3
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67075?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ACTION
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21891?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ARENA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/85931?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/51106?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21890?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67056?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21894?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS FOOTBALL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67057?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS GOLF
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67059?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67058?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MIX
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67061?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS NFL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/85930?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS PREMIER LEAGUE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67060?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS RACING
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/47763?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",UK Sky Sports Premier League
+http://ky-tv.cc:80/toyota18/toyota18/1821337.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",UK Sky Sports Premier League FHD
+http://fasttvuk.com:2086/Zxcvbn12/Zxcvbn12/217151?checkedby:iptvcat.com
