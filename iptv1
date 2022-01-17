@@ -1,5 +1,13 @@
 #EXTM3U
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="FREEVIEW",BBC 1 NE&C
 http://51.154.28.81:2052/play/a04i?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="FREEVIEW",BBC 2 HD
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21852?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="FREEVIEW",ITV
+http://51.154.28.81:2052/play/a0b0?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="FREEVIEW",Channel 4
+http://51.154.28.81:2052/play/a050?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="FREEVIEW",Channel 5
+http://51.154.28.81:2052/play/a055?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="MUSIC",NOW 70s
 http://51.154.28.81:2052/play/a083?checkedby:iptvcat.com
