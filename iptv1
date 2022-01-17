@@ -11,3 +11,15 @@ http://51.154.28.81:2052/play/a050?checkedby:iptvcat.com
 http://51.154.28.81:2052/play/a055?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="MUSIC",NOW 70s
 http://51.154.28.81:2052/play/a083?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="MUSIC",NOW 80s
+http://51.154.28.81:2052/play/a05e?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="MUSIC",NOW 90s
+http://51.154.28.81:2052/play/a07k?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="MUSIC",Clubland TV
+http://51.154.28.81:2052/play/a07j?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="MUSIC",KISS
+http://51.154.28.81:2052/play/a05w?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="MUSIC",Magic
+http://51.154.28.81:2052/play/a05t?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="KIDS",Nickelodeon
+http://balkanshark.com:25461/speedhdhd/acjQyHovsC/1243?checkedby:iptvcat.com
