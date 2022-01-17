@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="FREEVIEW",BBC 1 NE&C
+http://51.154.28.81:2052/play/a04i?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="MUSIC",NOW 70s
+http://51.154.28.81:2052/play/a083?checkedby:iptvcat.com
