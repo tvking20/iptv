@@ -23,6 +23,15 @@ https://eurodance90.catcast.tv/content/36987/index.m3u8
 http://51.154.28.81:2052/play/a05w?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="MUSIC",MAGIC
 http://51.154.28.81:2052/play/a05t?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="MUSIC",BOX HITS
+http://51.154.28.81:2052/play/a05v?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="MUSIC",THE BOX
+http://51.154.28.81:2052/play/a05u?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="MUSIC",KERRANG!
+http://51.154.28.81:2052/play/a05x?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="MUSIC",TRACE VAULT
+http://51.154.28.81:2052/play/a0a1?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="KIDS",NICKELODEON
 http://balkanshark.com:25461/speedhdhd/acjQyHovsC/1243?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="NEWS",BBC NEWS 
@@ -32,16 +41,4 @@ http://51.154.28.81:2052/play/a08w?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="NEWS",SKY SPORTS NEWS
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21895?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BOX HITS
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/99202?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Box Hits
-http://51.154.28.81:2052/play/a05v?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",The Box
-http://51.154.28.81:2052/play/a05u?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",KERRANG!
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67009?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Kerrang!
-http://51.154.28.81:2052/play/a05x?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Trace Vault
-http://51.154.28.81:2052/play/a0a1?checkedby:iptvcat.com
 
