@@ -1,4 +1,5 @@
 #EXTM3U
+https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="FREEVIEW",BBC 1 
 http://51.154.28.81:2052/play/a04i?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="FREEVIEW",BBC 2 
