@@ -1,6 +1,5 @@
 #EXTM3U
-https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml
-#EXTINF:0 tvg-country="https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml" tvg-logo="" group-title="FREEVIEW",BBC 1 
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="FREEVIEW",BBC 1 
 http://51.154.28.81:2052/play/a04i?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="FREEVIEW",BBC 2 
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21852?checkedby:iptvcat.com
