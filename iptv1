@@ -11,6 +11,8 @@ http://51.154.28.81:2052/play/a050?checkedby:iptvcat.com
 http://51.154.28.81:2052/play/a055?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_2.png" group-title="FREEVIEW",ITV 2
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21859?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="FREEVIEW",ITVBE
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21857?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/now-70s-uk.png" group-title="MUSIC",NOW 70s
 http://51.154.28.81:2052/play/a083?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/now-80s-uk.png" group-title="MUSIC",NOW 80s
@@ -104,7 +106,5 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66936?checkedby:iptvcat.com
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21854?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yesterday_uktv.png" group-title="FREEVIEW",YESTERDAY
 http://51.154.28.81:2052/play/a08x?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="KIDS",LITTLEBE
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21857?checkedby:iptvcat.com
 
 
