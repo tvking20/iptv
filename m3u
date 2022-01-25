@@ -67,6 +67,8 @@ http://ky-iptv.com:80/testtest/testtest/189891.ts?checkedby:iptvcat.com
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/90876?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC 2
 http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68594?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BBC 2 HD
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/68617?checkedby:iptvcat.com
 
 
 
