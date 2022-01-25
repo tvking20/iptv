@@ -5,44 +5,60 @@ http://51.154.28.81:2052/play/a04i?checkedby:iptvcat.com
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21852?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="ITVLondon.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv-uk.png" group-title="FREEVIEW",ITV
 http://51.154.28.81:2052/play/a0b0?checkedby:iptvcat.com
-#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk.png" group-title="FREEVIEW",CHANNEL 4
+#EXTINF:0 tvg-ID="Channel4.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk.png" group-title="FREEVIEW",CHANNEL 4
 http://51.154.28.81:2052/play/a050?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-5-uk.png" group-title="FREEVIEW",CHANNEL 5
+#EXTINF:0 tvg-ID="Channel5.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-5-uk.png" group-title="FREEVIEW",CHANNEL 5
 http://51.154.28.81:2052/play/a055?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_2.png" group-title="FREEVIEW",ITV 2
+#EXTINF:0 tvg-ID="ITV2.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_2.png" group-title="FREEVIEW",ITV 2
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21859?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_be.png" group-title="FREEVIEW",ITVBE
+#EXTINF:0 tvg-ID="ITVBe.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_be.png" group-title="FREEVIEW",ITVBE
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21857?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/now-70s-uk.png" group-title="MUSIC",NOW 70s
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/quest-uk.png" group-title="FREEVIEW",QUEST
+http://51.154.28.81:2052/play/a09d?checkedby:iptvcat.com
+#EXTINF:0 tvg-ID="E4UK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/e4-uk-uk.png" group-title="FREEVIEW",E4
+http://51.154.28.81:2052/play/a032?checkedby:iptvcat.com
+#EXTINF:0 tvg-ID="ReallyUK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/really_uktv.png" group-title="FREEVIEW",REALLY
+http://51.154.28.81:2052/play/a06e?checkedby:iptvcat.com
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5-usa-uk.png" group-title="FREEVIEW",5 USA
+http://51.154.28.81:2052/play/a056?checkedby:iptvcat.com
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5-usa-uk.png" group-title="FREEVIEW",5 USA
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66936?checkedby:iptvcat.com
+#EXTINF:0 tvg-ID="Yesterday.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yesterday_uktv.png" group-title="FREEVIEW",YESTERDAY
+http://51.154.28.81:2052/play/a08x?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/now-70s-uk.png" group-title="MUSIC",NOW 70s
 http://51.154.28.81:2052/play/a083?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/now-80s-uk.png" group-title="MUSIC",NOW 80s
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/now-80s-uk.png" group-title="MUSIC",NOW 80s
 http://51.154.28.81:2052/play/a05e?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/now-90s-uk.png" group-title="MUSIC",NOW 90s
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/now-90s-uk.png" group-title="MUSIC",NOW 90s
 http://51.154.28.81:2052/play/a07k?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/clubland_tv_uk.png" group-title="MUSIC",CLUBLAND TV
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/clubland_tv_uk.png" group-title="MUSIC",CLUBLAND TV
 http://51.154.28.81:2052/play/a07j?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="MUSIC",EURODANCE 90S
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="" group-title="MUSIC",EURODANCE 90S
 https://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kiss_uk.png" group-title="MUSIC",KISS
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kiss_uk.png" group-title="MUSIC",KISS
 http://51.154.28.81:2052/play/a05w?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/magic_tv_uk.png" group-title="MUSIC",MAGIC
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/magic_tv_uk.png" group-title="MUSIC",MAGIC
 http://51.154.28.81:2052/play/a05t?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/box_hits_uk.png" group-title="MUSIC",BOX HITS
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/box_hits_uk.png" group-title="MUSIC",BOX HITS
 http://51.154.28.81:2052/play/a05v?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the_box_uk.png" group-title="MUSIC",THE BOX
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the_box_uk.png" group-title="MUSIC",THE BOX
 http://51.154.28.81:2052/play/a05u?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kerrang_tv_uk.png" group-title="MUSIC",KERRANG!
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kerrang_tv_uk.png" group-title="MUSIC",KERRANG!
 http://51.154.28.81:2052/play/a05x?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trace-vault-fr.png" group-title="MUSIC",TRACE VAULT
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trace-vault-fr.png" group-title="MUSIC",TRACE VAULT
 http://51.154.28.81:2052/play/a0a1?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="KIDS",NICKELODEON
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="KIDS",NICKELODEON
 http://balkanshark.com:25461/speedhdhd/acjQyHovsC/1243?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-news-uk.png" group-title="NEWS",BBC NEWS 
+#EXTINF:0 tvg-ID="CBeebiesUK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbeebies-uk.png" group-title="KIDS",CBEEBIES
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21854?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-news-uk.png" group-title="NEWS",BBC NEWS 
 http://51.154.28.81:2052/play/a0ao?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="NEWS",SKY NEWS
+#EXTINF:0 tvg-ID="" tvg-ID=""tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="NEWS",SKY NEWS
 http://51.154.28.81:2052/play/a08w?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-news-uk.png" group-title="NEWS",SKY SPORTS NEWS
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-news-uk.png" group-title="NEWS",SKY SPORTS NEWS
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21895?checkedby:iptvcat.com
 
 
@@ -90,21 +106,3 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/47763?checkedby:iptvcat.com
 http://ky-tv.cc:80/toyota18/toyota18/1821337.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",UK Sky Sports Premier League FHD
 http://fasttvuk.com:2086/Zxcvbn12/Zxcvbn12/217151?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/quest-uk.png" group-title="FREEVIEW",QUEST
-http://51.154.28.81:2052/play/a09d?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/e4-uk-uk.png" group-title="FREEVIEW",E4
-http://51.154.28.81:2052/play/a032?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/really_uktv.png" group-title="FREEVIEW",REALLY
-http://51.154.28.81:2052/play/a06e?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5-usa-uk.png" group-title="FREEVIEW",5 USA
-http://51.154.28.81:2052/play/a056?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5-usa-uk.png" group-title="FREEVIEW",5 USA
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66936?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbeebies-uk.png" group-title="KIDS",CBEEBIES
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21854?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yesterday_uktv.png" group-title="FREEVIEW",YESTERDAY
-http://51.154.28.81:2052/play/a08x?checkedby:iptvcat.com
-
-
