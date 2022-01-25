@@ -13,7 +13,7 @@ http://51.154.28.81:2052/play/a055?checkedby:iptvcat.com
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21859?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="ITVBe.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_be.png" group-title="FREEVIEW",ITVBE
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21857?checkedby:iptvcat.com
-#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/quest-uk.png" group-title="FREEVIEW",QUEST
+#EXTINF:0 tvg-ID="QuestUK.us" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/quest-uk.png" group-title="FREEVIEW",QUEST
 http://51.154.28.81:2052/play/a09d?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="E4UK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/e4-uk-uk.png" group-title="FREEVIEW",E4
 http://51.154.28.81:2052/play/a032?checkedby:iptvcat.com
