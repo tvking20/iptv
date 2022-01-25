@@ -3,9 +3,9 @@
 http://51.154.28.81:2052/play/a04i?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="BBCTwo.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-two-uk.png" group-title="FREEVIEW",BBC 2 
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21852?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv-uk.png" group-title="FREEVIEW",ITV
+#EXTINF:0 tvg-ID="ITVLondon.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv-uk.png" group-title="FREEVIEW",ITV
 http://51.154.28.81:2052/play/a0b0?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk.png" group-title="FREEVIEW",CHANNEL 4
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk.png" group-title="FREEVIEW",CHANNEL 4
 http://51.154.28.81:2052/play/a050?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-5-uk.png" group-title="FREEVIEW",CHANNEL 5
 http://51.154.28.81:2052/play/a055?checkedby:iptvcat.com
