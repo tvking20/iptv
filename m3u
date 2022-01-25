@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=“https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml”
-#EXTINF:0 tvg-ID="BBCOne.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-one-uk.png" group-title="FREEVIEW",BBCOne.uk 
+#EXTINF:0 tvg-ID="BBCOne.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-one-uk.png" group-title="FREEVIEW",BBC 1
 http://51.154.28.81:2052/play/a04i?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="BBCTwo.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-two-uk.png" group-title="FREEVIEW",BBC 2 
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21852?checkedby:iptvcat.com
