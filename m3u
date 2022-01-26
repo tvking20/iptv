@@ -19,9 +19,9 @@ http://51.154.28.81:2052/play/a09d?checkedby:iptvcat.com
 http://51.154.28.81:2052/play/a032?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="ReallyUK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/really_uktv.png" group-title="FREEVIEW",REALLY
 http://51.154.28.81:2052/play/a06e?checkedby:iptvcat.com
-#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5-usa-uk.png" group-title="FREEVIEW",5 USA
+#EXTINF:0 tvg-ID="5USA.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5-usa-uk.png" group-title="FREEVIEW",5 USA
 http://51.154.28.81:2052/play/a056?checkedby:iptvcat.com
-#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5-usa-uk.png" group-title="FREEVIEW",5 USA
+#EXTINF:0 tvg-ID="5USA.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5-usa-uk.png" group-title="FREEVIEW",5 USA
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66936?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="Yesterday.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yesterday_uktv.png" group-title="FREEVIEW",YESTERDAY
 http://51.154.28.81:2052/play/a08x?checkedby:iptvcat.com
@@ -35,8 +35,8 @@ http://51.154.28.81:2052/play/a07k?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/clubland_tv_uk.png" group-title="MUSIC",CLUBLAND TV
 http://51.154.28.81:2052/play/a07j?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="" group-title="MUSIC",EURODANCE 90S
-#EXTINF:0 tvg-ID="4Music.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/4music-uk.png" group-title="MUSIC",4 MUSIC
 https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:0 tvg-ID="4Music.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/4music-uk.png" group-title="MUSIC",4 MUSIC
 https://list.iptvcat.com/my_list/s/307ab43ad4f3579537812e2f07015f35.m3u8
 #EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kiss_uk.png" group-title="MUSIC",KISS
 http://51.154.28.81:2052/play/a05w?checkedby:iptvcat.com
