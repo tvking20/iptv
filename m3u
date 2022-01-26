@@ -31,7 +31,8 @@ http://51.154.28.81:2052/play/a08q?checkedby:iptvcat.com
 http://51.154.28.81:2052/play/a08t?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="DaveUK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dave-uk.png" group-title="ENTERTAINMENT",DAVE
 http://51.154.28.81:2052/play/a093?checkedby:iptvcat.com
-
+#EXTINF:0 tvg-ID="PickUK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pick-uk-uk.png" group-title="ENTERTAINMENT",PICK
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/72748?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/now-70s-uk.png" group-title="MUSIC",NOW 70s
 http://51.154.28.81:2052/play/a083?checkedby:iptvcat.com
