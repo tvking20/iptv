@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-ID="BBCOne.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-one-uk.png" group-title="FREEVIEW",BBC 1
 http://51.154.28.81:2052/play/a04i?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="BBCTwo.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-two-uk.png" group-title="FREEVIEW",BBC 2 
-https://list.iptvcat.com/my_list/s/51004667522e2b554224db6f9f80b6d3.m3u8
+http://45.153.35.221:8000/play/a009/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="ITVLondon.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv-uk.png" group-title="FREEVIEW",ITV
 http://51.154.28.81:2052/play/a0b0?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="Channel4.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk.png" group-title="FREEVIEW",CHANNEL 4
@@ -26,7 +26,7 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66936?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="Yesterday.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yesterday_uktv.png" group-title="FREEVIEW",YESTERDAY
 http://51.154.28.81:2052/play/a08x?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="ChallengeUK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/challenge_tv_uk.png" group-title="FREEVIEW",CHALLENGE
-https://list.iptvcat.com/my_list/s/7bc2b916f12ea7bd4386202b52ebb518.m3u8
+http://51.154.28.81:2052/play/a08q?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/now-70s-uk.png" group-title="MUSIC",NOW 70s
 http://51.154.28.81:2052/play/a083?checkedby:iptvcat.com
@@ -39,7 +39,7 @@ http://51.154.28.81:2052/play/a07j?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="" group-title="MUSIC",EURODANCE 90S
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:0 tvg-ID="4Music.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/4music-uk.png" group-title="MUSIC",4 MUSIC
-https://list.iptvcat.com/my_list/s/307ab43ad4f3579537812e2f07015f35.m3u8
+http://new-pro.tv:8080/khaled398/K8GZlvu5gB/72718?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kiss_uk.png" group-title="MUSIC",KISS
 http://51.154.28.81:2052/play/a05w?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/magic_tv_uk.png" group-title="MUSIC",MAGIC
