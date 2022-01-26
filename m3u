@@ -25,6 +25,8 @@ http://51.154.28.81:2052/play/a056?checkedby:iptvcat.com
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66936?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="Yesterday.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yesterday_uktv.png" group-title="FREEVIEW",YESTERDAY
 http://51.154.28.81:2052/play/a08x?checkedby:iptvcat.com
+#EXTINF:0 tvg-ID="ChallengeUK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/challenge_tv_uk.png" group-title="FREEVIEW",CHALLENGE
+https://list.iptvcat.com/my_list/s/7bc2b916f12ea7bd4386202b52ebb518.m3u8
 
 #EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/now-70s-uk.png" group-title="MUSIC",NOW 70s
 http://51.154.28.81:2052/play/a083?checkedby:iptvcat.com
