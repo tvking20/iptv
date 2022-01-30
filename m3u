@@ -91,40 +91,39 @@ http://51.154.28.81:2052/play/a08w?checkedby:iptvcat.com
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67091?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",4seven
+#EXTINF:0 tvg-ID="4Seven.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/4seven-uk.png" group-title="ENTERTAINMENT",4SEVEN
 http://51.154.28.81:2052/play/a05p?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="PLUS 1",5STAR+1
+#EXTINF:0 tvg-ID="5Star.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5-star-plus-1-uk.png" group-title="PLUS 1",5STAR+1
 http://51.154.28.81:2052/play/a05a?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",5STAR
+#EXTINF:0 tvg-ID="5Star.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5-star-plus-1-uk.png" group-title="ENTERTAINMENT",5STAR
 http://51.154.28.81:2052/play/a058?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",5USA+1
+#EXTINF:0 tvg-ID="5USAPlus1.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5-usa-plus-1-uk.png" group-title="PLUS 1",5USA+1
 http://45.153.35.221:8000/play/a00w/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBBC
+#EXTINF:0 tvg-ID="CBBC.uk"tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_cbbc.png"KIDS",CBBC
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/90880?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS Drama
+#EXTINF:0 tvg-ID="CBSDramaUK.us"tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-drama-uk.png" group-title="ENTERTAINMENT",CBS Drama
 http://51.154.28.81:2052/play/a09v?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNN
+#EXTINF:0 tvg-ID="4Seven.uk"tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-us.svg" group-title="Undefined",CNN
 http://51.154.28.81:2052/play/a05g?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Channel 5+1
+#EXTINF:0 tvg-ID="4Seven.uk"tvg-country="GB" tvg-logo="" group-title="Undefined",Channel 5+1
 http://51.154.28.81:2052/play/a05b?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Drama
+#EXTINF:0 tvg-ID="4Seven.uk"tvg-country="GB" tvg-logo="" group-title="Undefined",Drama
 http://51.154.28.81:2052/play/a092?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Film4+1
+#EXTINF:0 tvg-ID="4Seven.uk"tvg-country="GB" tvg-logo="" group-title="Undefined",Film4+1
 http://45.153.35.221:8000/play/a03k/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Film4
+#EXTINF:0 tvg-ID="4Seven.uk"tvg-country="GB" tvg-logo="" group-title="Undefined",Film4
 http://51.154.28.81:2052/play/a02z?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Forces TV
+#EXTINF:0 tvg-ID="4Seven.uk"tvg-country="GB" tvg-logo="" group-title="Undefined",Forces TV
 http://51.154.28.81:2052/play/a08r?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="SPORT",FreeSports HD
+#EXTINF:0 tvg-ID="4Seven.uk"tvg-country="GB" tvg-logo="" group-title="SPORT",FreeSports HD
 http://51.154.28.81:2052/play/a06i?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="RELIGIOUS",GOD TV
+#EXTINF:0 tvg-ID="4Seven.uk"tvg-country="GB" tvg-logo="" group-title="RELIGIOUS",GOD TV
 https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",QVC
+#EXTINF:0 tvg-ID="4Seven.uk"tvg-country="GB" tvg-logo="" group-title="Undefined",QVC
 http://51.154.28.81:2052/play/a06n?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Quest Red
+#EXTINF:0 tvg-ID="4Seven.uk"tvg-country="GB" tvg-logo="" group-title="Undefined",Quest Red
 http://51.154.28.81:2052/play/a09e?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Quest Red+1
+#EXTINF:0 tvg-ID="4Seven.uk"tvg-country="GB" tvg-logo="" group-title="Undefined",Quest Red+1
 http://51.154.28.81:2052/play/a09c?checkedby:iptvcat.com
 
 
