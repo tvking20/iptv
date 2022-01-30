@@ -103,7 +103,7 @@ http://51.154.28.81:2052/play/a05b?checkedby:iptvcat.comttp://51.154.28.81:2052/
 http://balkanshark.com:25461/speedhdhd/acjQyHovsC/1243?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="CBeebiesUK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbeebies-uk.png" group-title="KIDS",CBEEBIES *OFFLINE*
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21854?checkedby:iptvcat.com
-#EXTINF:0 tvg-ID="CBBC.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_cbbc.png"KIDS",CBBC
+#EXTINF:0 tvg-ID="CBBC.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_cbbc.png" group-title="KIDS",CBBC
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/90880?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="Pop.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pop-in.png" group-title="KIDS",POP
 http://51.154.28.81:2052/play/a063?checkedby:iptvcat.com
