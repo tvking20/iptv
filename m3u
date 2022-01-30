@@ -21,8 +21,6 @@ http://51.154.28.81:2052/play/a032?checkedby:iptvcat.com
 http://51.154.28.81:2052/play/a06e?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="5USA.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5-usa-uk.png" group-title="ENTERTAINMENT",5 USA
 http://51.154.28.81:2052/play/a056?checkedby:iptvcat.com
-#EXTINF:0 tvg-ID="5USA.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5-usa-uk.png" group-title="ENTERTAINMENT",5 USA
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66936?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="Yesterday.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yesterday_uktv.png" group-title="ENTERTAINMENT",YESTERDAY
 http://51.154.28.81:2052/play/a08x?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="ChallengeUK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/challenge_tv_uk.png" group-title="ENTERTAINMENT",CHALLENGE
@@ -58,6 +56,13 @@ http://51.154.28.81:2052/play/a05u?checkedby:iptvcat.com
 http://51.154.28.81:2052/play/a05x?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trace-vault-fr.png" group-title="MUSIC",TRACE VAULT
 http://51.154.28.81:2052/play/a0a1?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV2
+http://51.154.28.81:2052/play/a0b1?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV2+1
+http://51.154.28.81:2052/play/a04t?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV3
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/72596?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="KIDS",NICKELODEON
 http://balkanshark.com:25461/speedhdhd/acjQyHovsC/1243?checkedby:iptvcat.com
