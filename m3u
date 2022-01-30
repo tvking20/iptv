@@ -93,7 +93,7 @@ http://51.154.28.81:2052/play/a0b8?checkedby:iptvcat.com
 http://51.154.28.81:2052/play/a05a?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="5USAPlus1.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/5-usa-plus-1-uk.png" group-title="PLUS 1",5USA+1
 http://45.153.35.221:8000/play/a00w/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-ID="Film4UK.uk"tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/film-4-uk-uk.png" group-title="PLUS 1",Film4
+#EXTINF:0 tvg-ID="Film4UK.uk"tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/film-4-uk-uk.png" group-title="MOVIES",Film4
 http://51.154.28.81:2052/play/a053?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="Channel5Plus1.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-5-plus-1-uk.png" group-title="PLUS 1",Channel 5+1
 http://51.154.28.81:2052/play/a05b?checkedby:iptvcat.comttp://51.154.28.81:2052/play/a02z?checkedby:iptvcat.com
