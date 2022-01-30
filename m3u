@@ -64,9 +64,9 @@ http://51.154.28.81:2052/play/a0a1?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-ID="ITV2Plus1.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_2_plus1.png" group-title="PLUS 1",ITV2+1
 http://51.154.28.81:2052/play/a04t?checkedby:iptvcat.com
-#EXTINF:0 tvg-ID="ITV3Plus1.uk" tvg-country="GB" tvg-logo="" group-title="PLUS 1",ITV3+1
+#EXTINF:0 tvg-ID="ITV3Plus1.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_3_plus1.png" group-title="PLUS 1",ITV3+1
 http://51.154.28.81:2052/play/a0bb?checkedby:iptvcat.com
-#EXTINF:0 tvg-ID="ITV4Plus1.uk.uk" tvg-country="GB" tvg-logo="" group-title="PLUS 1",ITV4+1
+#EXTINF:0 tvg-ID="ITV4Plus1.uk.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_4_plus1.png" group-title="PLUS 1",ITV4+1
 http://51.154.28.81:2052/play/a0b8?checkedby:iptvcat.com
 
 
