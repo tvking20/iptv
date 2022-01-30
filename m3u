@@ -86,46 +86,15 @@ http://51.154.28.81:2052/play/a08w?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="SkySportsNewsUK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-news-uk.png" group-title="NEWS",SKY SPORTS NEWS
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67091?checkedby:iptvcat.com
 
-#EXTM3U
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY ATLANTIC
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/91780?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA HITS
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/87577?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY CINEMA THRILLER
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/87581?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY MAX
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/101702?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY NATURE
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/99206?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY ONE HD
-http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/35744?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY WITNESS
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/38338?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Animation
-http://ky-iptv.com:80/testtest/testtest/1663386.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Comedy FHD
-http://ky-iptv.com:80/testtest/testtest/1120162.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Disney HD
-http://ky-iptv.com:80/testtest/testtest/1661205.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK SKY CINEMA ACTION FHD
-http://ky-iptv.com:80/testtest/testtest/391351.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK SKY CINEMA FAMILY
-http://ky-iptv.com:80/testtest/testtest/391349.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK SKY One
-http://ky-iptv.com:80/testtest/testtest/189999.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK SKY One
-http://line.lemotv.cc:80/Matthew4564/7438844/189999.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK Sky 2 FHD
-http://ky-iptv.com:80/testtest/testtest/515731.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK Sky Atlantic
-http://ky-iptv.com:80/testtest/testtest/190001.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK Sky Documentaries
-http://ky-iptv.com:80/testtest/testtest/1400759.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK Sky Nature
-http://ky-iptv.com:80/testtest/testtest/515732.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",UK Sky Sports Racing
-http://ky-iptv.com:80/testtest/testtest/189989.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",UK SkySports F1
-http://ky-iptv.com:80/testtest/testtest/1196396.ts?checkedby:iptvcat.com
-
-
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBBC
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/90880?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK CBBC
+http://ky-iptv.com:80/testtest/testtest/189914.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP
+http://51.154.28.81:2052/play/a063?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP
+http://45.153.35.221:8000/play/a02j/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP Max
+http://51.154.28.81:2052/play/a065?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP Max
+http://45.153.35.221:8000/play/a02l/index.m3u8?checkedby:iptvcat.com
