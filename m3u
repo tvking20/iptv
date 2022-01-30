@@ -11,8 +11,12 @@ http://51.154.28.81:2052/play/a050?checkedby:iptvcat.com
 http://51.154.28.81:2052/play/a055?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="ITV2.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_2.png" group-title="ENTERTAINMENT",ITV 2
 http://51.154.28.81:2052/play/a0b1?checkedby:iptvcat.com
+#EXTINF:0 tvg-ID="ITV3.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_3.png" group-title="ENTERTAINMENT",ITV3 *OFFLINE*
+
+#EXTINF:0 tvg-ID="ITV4.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_4.png" group-title="ENTERTAINMENT",ITV4 *OFFLINE*
+
 #EXTINF:0 tvg-ID="ITVBe.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_be.png" group-title="ENTERTAINMENT",ITVBE
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21857?checkedby:iptvcat.com
+http://51.154.28.81:2052/play/a0b6?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="QuestUK.us" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/quest-uk.png" group-title="ENTERTAINMENT",QUEST
 http://51.154.28.81:2052/play/a09d?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="E4UK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/e4-uk-uk.png" group-title="ENTERTAINMENT",E4
@@ -58,26 +62,19 @@ http://51.154.28.81:2052/play/a05x?checkedby:iptvcat.com
 http://51.154.28.81:2052/play/a0a1?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-ID="ITV2Plus1.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_2_plus1.png" group-title="PLUS 1 (+1)",ITV2+1
+#EXTINF:0 tvg-ID="ITV2Plus1.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_2_plus1.png" group-title="PLUS 1",ITV2+1
 http://51.154.28.81:2052/play/a04t?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV3
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV3
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/72596?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV +1
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66992?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV3
-http://45.153.35.221:8000/play/a00q/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV3+1
+#EXTINF:0 tvg-ID="ITV3Plus1.uk" tvg-country="GB" tvg-logo="" group-title="PLUS 1",ITV3+1
 http://51.154.28.81:2052/play/a0bb?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV4
-http://45.153.35.221:8000/play/a00r/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITV4+1
+#EXTINF:0 tvg-ID="ITV4Plus1.uk.uk" tvg-country="GB" tvg-logo="" group-title="PLUS 1",ITV4+1
 http://51.154.28.81:2052/play/a0b8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITVBe
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67006?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ITVBe
-http://51.154.28.81:2052/play/a0b6?checkedby:iptvcat.com
+
+
+
+
+
+
+
 
 
 
