@@ -78,6 +78,10 @@ http://51.154.28.81:2052/play/a0b8?checkedby:iptvcat.com
 http://balkanshark.com:25461/speedhdhd/acjQyHovsC/1243?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="CBeebiesUK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbeebies-uk.png" group-title="KIDS",CBEEBIES
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21854?checkedby:iptvcat.com
+#EXTINF:0 tvg-ID="Pop.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pop-in.png" group-title="KIDS",POP
+http://51.154.28.81:2052/play/a063?checkedby:iptvcat.com
+#EXTINF:0 tvg-ID="PopMax.uk"tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pop-max-uk.png" group-title="KIDS",POP Max
+http://45.153.35.221:8000/play/a02l/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-ID="BBCNews.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-news-uk.png" group-title="NEWS",BBC NEWS 
 http://51.154.28.81:2052/play/a0ao?checkedby:iptvcat.com
@@ -86,15 +90,6 @@ http://51.154.28.81:2052/play/a08w?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="SkySportsNewsUK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-news-uk.png" group-title="NEWS",SKY SPORTS NEWS
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67091?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBBC
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/90880?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",UK CBBC
-http://ky-iptv.com:80/testtest/testtest/189914.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP
-http://51.154.28.81:2052/play/a063?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP
-http://45.153.35.221:8000/play/a02j/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP Max
-http://51.154.28.81:2052/play/a065?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP Max
-http://45.153.35.221:8000/play/a02l/index.m3u8?checkedby:iptvcat.com
+
+
+
