@@ -62,6 +62,8 @@ http://51.154.28.81:2052/play/a05x?checkedby:iptvcat.com
 http://51.154.28.81:2052/play/a0a1?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="Afrobeats.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Iaey8k5.jpg" group-title="MUSIC",AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-id="V2BEAT.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=320&height=320" group-title="Music",V2BEAT (720p) [Not 24/7]
+https://abr.de1se01.v2beat.live/playlist.m3u8
 
 
 #EXTINF:0 tvg-ID="ITV2Plus1.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_2_plus1.png" group-title="PLUS 1",ITV2+1
