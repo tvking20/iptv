@@ -47,7 +47,7 @@ http://51.154.28.81:2052/play/a07j?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="" group-title="MUSIC",EURODANCE 90S
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:0 tvg-ID="4Music.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/4music-uk.png" group-title="MUSIC",4 MUSIC
-http://new-pro.tv:8080/khaled398/K8GZlvu5gB/72718?checkedby:iptvcat.com
+http://45.153.35.221:8000/play/a0f2/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="KissTV.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kiss_uk.png" group-title="MUSIC",KISS
 http://51.154.28.81:2052/play/a05w?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="MagicTV.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/magic_tv_uk.png" group-title="MUSIC",MAGIC
@@ -74,9 +74,9 @@ http://51.154.28.81:2052/play/a0bb?checkedby:iptvcat.com
 http://51.154.28.81:2052/play/a0b8?checkedby:iptvcat.com
 
 
-#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="KIDS",NICKELODEON
+#EXTINF:0 tvg-ID="" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="KIDS",NICKELODEON *OFFLINE*
 http://balkanshark.com:25461/speedhdhd/acjQyHovsC/1243?checkedby:iptvcat.com
-#EXTINF:0 tvg-ID="CBeebiesUK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbeebies-uk.png" group-title="KIDS",CBEEBIES
+#EXTINF:0 tvg-ID="CBeebiesUK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbeebies-uk.png" group-title="KIDS",CBEEBIES *OFFLINE*
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21854?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="Pop.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pop-in.png" group-title="KIDS",POP
 http://51.154.28.81:2052/play/a063?checkedby:iptvcat.com
@@ -90,6 +90,89 @@ http://51.154.28.81:2052/play/a08w?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="SkySportsNewsUK.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-news-uk.png" group-title="NEWS",SKY SPORTS NEWS
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67091?checkedby:iptvcat.com
 
+
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",4SEVEN
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66935?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",4seven
+http://51.154.28.81:2052/play/a05p?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",5 STAR
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66938?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",5STAR+1
+http://51.154.28.81:2052/play/a05a?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",5STAR
+http://51.154.28.81:2052/play/a058?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",5STAR+1
+http://45.153.35.221:8000/play/a00z/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",5USA+1
+http://45.153.35.221:8000/play/a00w/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/72567?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",BOXNATION
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67081?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBBC
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/90880?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS Drama
+http://51.154.28.81:2052/play/a09v?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CBS JUSTICE
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66956?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CHANNEL 5 +1
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66963?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNN
+http://51.154.28.81:2052/play/a05g?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",CNN
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/103892?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",COMEDY CENTRAL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/72570?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",COMEDY CENTRAL EXTRA
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/35761?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Channel 5+1
+http://45.153.35.221:8000/play/a010/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Channel 5+1
+http://51.154.28.81:2052/play/a05b?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/32042?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/35779?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISNEY JUNIOR
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/35766?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Drama+1
+http://45.153.35.221:8000/play/a029/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Drama
+http://45.153.35.221:8000/play/a027/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Drama
+http://51.154.28.81:2052/play/a092?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Drama
+http://51.154.28.81:2052/play/a08z?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Drama
+http://45.153.35.221:8000/play/a023/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",FOOD NETWORK
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/66977?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Film4+1
+http://51.154.28.81:2052/play/a053?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Film4+1
+http://45.153.35.221:8000/play/a03k/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Film4
+http://51.154.28.81:2052/play/a02z?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Forces TV
+http://51.154.28.81:2052/play/a08r?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",FreeSports HD
+http://51.154.28.81:2052/play/a06i?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Religious",GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MORE4
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/98696?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MORE4 +1
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/67015?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NASA TV [HD]
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NAT GEO WILD HD
+http://new.xwhmcs.com:23000/qnnaomau/UfKm4l98s7/35776?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",QVC
+http://51.154.28.81:2052/play/a06n?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Quest Red
+http://51.154.28.81:2052/play/a09e?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Quest Red+1
+http://51.154.28.81:2052/play/a09c?checkedby:iptvcat.com
 
 
 
