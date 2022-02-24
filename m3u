@@ -123,7 +123,7 @@ http://45.153.35.221:8000/play/a02l/index.m3u8?checkedby:iptvcat.com
 
 
 #EXTINF:0 tvg-ID="BBCNews.uk" tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-news-uk.png" group-title="NEWS",BBC NEWS 
-http://51.154.28.81:2052/play/a0ao?checkedby:iptvcat.com
+http://ky-iptv.com:80/testtest/testtest/189894.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-ID="SkyNewsUK.uk" tvg-ID=""tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="NEWS",SKY NEWS
 http://51.154.28.81:2052/play/a08w?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-news-uk.png" group-title="NEWS",SKY SPORTS NEWS
